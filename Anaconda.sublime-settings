@@ -1,0 +1,7 @@
+{
+	/*
+        Set to false to disable Anaconda linting entirely.
+    */
+    "anaconda_linting": false,
+
+}

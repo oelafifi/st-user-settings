@@ -1,9 +1,9 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
 	"ignored_packages":
 	[
 		"SublimeLinter-pylint",
 		"Vintage"
 	],
-	"theme": "Spacegray.sublime-theme"
+	"theme": "Oceanic Next.sublime-theme"
 }
